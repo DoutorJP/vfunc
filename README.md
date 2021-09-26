@@ -1,9 +1,9 @@
 
 # Compilando:
 
-`m̀ake`
-`chmod +x configure`
-`sudo ./configure`
+` make `
+` chmod +x configure `
+` sudo ./configure `
 
 ## autor: João Pedro de Moura Vasconcelos
 ## versão: 1.0.0
