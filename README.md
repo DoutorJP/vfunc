@@ -1,5 +1,6 @@
+#Vfunc
 
-# Compilando:
+## Compilando:
 
 primeiro, compile a base:
 ` make `
@@ -11,5 +12,6 @@ finalmente, termine a instalação rodando o arquivo:
 ` sudo ./configure `
 
 
-## autor: João Pedro de Moura Vasconcelos
-## versão: 1.0.0
+### autor: João Pedro de Moura Vasconcelos
+### licença: GPL 3.0
+### versão: 1.0.0
